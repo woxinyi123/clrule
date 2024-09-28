@@ -18,7 +18,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 DOMAIN-SUFFIX,cn2.kws.moe
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,sptv.ii00.cc
-DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN,pub3.emby.wtf
 IP-CIDR,88.99.218.218/8
 
 
