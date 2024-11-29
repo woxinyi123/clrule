@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,cn2.kws.moe
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,sptv.ii00.cc
-DOMAIN,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
 IP-CIDR,88.99.218.218/8
 
 
