@@ -6,10 +6,6 @@ DOMAIN-KEYWORD,69shu
 DOMAIN-KEYWORD,69shuba
 DOMAIN-KEYWORD,69shux
 
-# ANDROID-play
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,services.googleapis.cn
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
