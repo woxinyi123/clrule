@@ -10,8 +10,7 @@ DOMAIN-SUFFIX,emby.nebula-media.org
 DOMAIN-SUFFIX,emby.bgpnet.org
 DOMAIN-SUFFIX,wgtv.ii00.cc
 DOMAIN-SUFFIX,wptv.ii00.cc
-DOMAIN-SUFFIX,*.emby.wtf
-# DOMAIN-SUFFIX,pub3.emby.wtf
+DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,media.emby.vip
 DOMAIN-SUFFIX,tanhuatv.site
 
