@@ -1,8 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,sptv.ii00.cc
-# DOMAIN-SUFFIX,*.emby.wtf
-# DOMAIN-SUFFIX,*.emby.vip
+#DOMAIN-SUFFIX,*.emby.wtf
+#DOMAIN-SUFFIX,*.emby.vip
 IP-CIDR,88.99.218.218/24
 
 
