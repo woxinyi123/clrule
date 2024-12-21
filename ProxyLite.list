@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,emby.bgpnet.org
 DOMAIN-SUFFIX,wgtv.ii00.cc
 DOMAIN-SUFFIX,wptv.ii00.cc
 DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,media.emby.vip
+# DOMAIN-SUFFIX,media.emby.vip
 DOMAIN-SUFFIX,tanhuatv.site
 
 
