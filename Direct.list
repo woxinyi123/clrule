@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,sgtv.ii00.cc
 DOMAIN-SUFFIX,sptv.ii00.cc
 # DOMAIN-SUFFIX,pub3.emby.wtf
-# DOMAIN-SUFFIX,media.emby.vip
+DOMAIN-SUFFIX,media.emby.vip
 IP-CIDR,88.99.218.218/24
 
 
