@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,cfptv.ii00.cc
 DOMAIN-SUFFIX,pub3.emby.wtf
 # DOMAIN-SUFFIX,media.emby.vip
 DOMAIN-SUFFIX,tanhuatv.site
-
+IP-CIDR,88.99.218.218/24
 
 
 
