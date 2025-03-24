@@ -7,7 +7,7 @@ DOMAIN-SUFFIX,g.once.im
 # DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,media.emby.vip
 IP-CIDR,88.99.218.218/24
-DOMAIN-SUFFIX,nebula-media.org
+
 
 
 # MyList
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+DOMAIN-KEYWORD,nebula-media
 
 
 # 360
