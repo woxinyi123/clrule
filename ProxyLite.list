@@ -16,4 +16,7 @@ DOMAIN-SUFFIX,infini-cloud.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,pikpak
 
+DOMAIN-KEYWORD,huangguoai
+DOMAIN-KEYWORD,huangguo
+
 # 国外DNS
